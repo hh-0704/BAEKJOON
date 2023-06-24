@@ -1,4 +1,4 @@
 # BAEKJOON
 ---
 ## algorithm study
-## 백준 문제 푼 파일
+## 백준 문제 푼 코드들
